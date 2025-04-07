@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const express = require('express');
 const router = express.Router();
 const Job = require('../models/Job');
@@ -20,6 +19,3 @@ router.delete('/:id', async (req, res) => {
 });
 
 module.exports = router;
-=======
-backend/routes/jobs.js
->>>>>>> faa1e2756edf3f469ca6ec198a9f554dc6b6dd3e
