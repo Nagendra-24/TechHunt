@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
@@ -19,6 +18,3 @@ app.use('/api/jobs', require('./routes/jobs'));
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
-=======
-backend/index.js
->>>>>>> faa1e2756edf3f469ca6ec198a9f554dc6b6dd3e
