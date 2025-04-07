@@ -1,1 +1,1 @@
-# TechHunt
+git init# TechHunt
